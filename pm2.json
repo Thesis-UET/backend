@@ -1,0 +1,9 @@
+[
+  {
+    "name": "API",
+    "script": "npm start",
+    "log_date_format" : "YYYY-MM-DD HH:mm:ss",
+    "autorestart" : true,
+    "restart_delay": 1000
+  }
+]
